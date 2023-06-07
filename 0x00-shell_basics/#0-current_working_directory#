@@ -1,0 +1,10 @@
+select 0-current_working_directory
+
+press in ; do
+    $0-current_working_directory
+
+press
+done
+
+#!/bin/bash
+pwd
